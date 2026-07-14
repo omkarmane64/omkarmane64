@@ -1,83 +1,108 @@
 # Hi 👋, I'm Omkar Mane
 
-**Java Full Stack Developer** \| Spring Boot \| Hibernate \| REST APIs
-\| MySQL
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7C3AED,100:4F46E5&height=220&section=header&text=Omkar%20Mane&fontSize=48&fontColor=ffffff"/>
+</p>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Open+to+Work)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Enthusiast;Always+Learning+New+Technologies;Open+to+Work"/>
+</p>
 
-------------------------------------------------------------------------
+# 💼 About Me
 
-## 🚀 About Me
+I'm **Omkar Mane**, a **Java Full Stack Developer** passionate about building scalable web applications.
 
--   🎓 B.Sc. IT
--   💻 Java Full Stack Developer
--   📍 Vile Parle, Mumbai, Maharashtra, India
--   📧 omane4283@gmail.com
--   🌱 Learning Spring Security, JWT, Docker & Microservices
--   💼 Open to Java Full Stack Developer opportunities
+- 💻 Java Full Stack Developer
+- 🌱 Learning Spring Security, JWT, Docker & Microservices
+- 📍 Vile Parle, Mumbai, India
+- 📧 omane4283@gmail.com
+- 💼 Open to Full-Time Opportunities
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, SQL, HTML5, CSS3
+![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,mysql,git,github,vscode,idea,eclipse,maven)
 
-**Backend:** Spring Boot, Hibernate, JDBC, REST APIs
+### Backend
+- Java
+- JDBC
+- Hibernate
+- Spring MVC
+- Spring Boot
+- REST APIs
 
-**Database:** MySQL, Firebase
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
-**Tools:** Git, GitHub, Maven, IntelliJ IDEA, Eclipse, VS Code
+### Database
+- SQL
+- MySQL
 
-------------------------------------------------------------------------
+### Other
+- Python
+- Git & GitHub
 
-## 🌟 Featured Projects
+# 📊 Skills
 
-### 🍽️ Flames Food Delivery App
+| Category | Skills |
+|---|---|
+| Languages | Java, Python, JavaScript, SQL |
+| Frontend | HTML, CSS, Bootstrap |
+| Backend | JDBC, Hibernate, Spring MVC, Spring Boot |
+| Database | MySQL |
+| Tools | Git, GitHub, Maven, IntelliJ IDEA, Eclipse, VS Code |
 
-Android food delivery app with Customer, Chef and Delivery modules using
-Java and Firebase.
+# 🚀 Featured Projects
 
-### 📚 Library Management System
+- 🍽️ Flames Food Delivery App
+- 📚 Library Management System
+- 🛒 Spring Boot Product Management
+- 📦 Hibernate Product Demo
 
-CRUD-based application using Java, JDBC and MySQL.
+# 📈 GitHub Stats
 
-### 🛒 Spring Boot Product Management
+![Stats](https://github-readme-stats.vercel.app/api?username=omkarmane64&show_icons=true&theme=tokyonight)
 
-Spring Boot + Hibernate + MySQL project demonstrating REST APIs and MVC.
+![Streak](https://streak-stats.demolab.com?user=omkarmane64&theme=tokyonight)
 
-### 📦 Hibernate Product Demo
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmane64&layout=compact&theme=tokyonight)
 
-ORM-based CRUD application using Hibernate.
+# 🏆 GitHub Trophies
 
-------------------------------------------------------------------------
+![](https://github-profile-trophy.vercel.app/?username=omkarmane64&theme=tokyonight&no-frame=true)
 
-## 📊 GitHub Stats
+# 📊 Contribution Graph
 
-![Stats](https://github-readme-stats.vercel.app/api?username=omkarmanr64&show_icons=true&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=omkarmane64&theme=tokyo-night)
 
-![Streak](https://streak-stats.demolab.com?user=omkarmanr64&theme=tokyonight)
+# 🐍 Contribution Snake
 
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmanr64&layout=compact&theme=tokyonight)
+Add this GitHub Action later:
+https://github.com/Platane/snk
 
-------------------------------------------------------------------------
+# 🎯 Current Focus
 
-## 🎯 Current Focus
-
-``` yaml
+```yaml
 Learning:
   - Spring Security
   - JWT
   - Docker
   - Microservices
 Building:
-  - Java Full Stack Projects
-Preparing:
-  - Java Developer Interviews
+  - Enterprise Java Applications
+Exploring:
+  - AWS
+OpenTo:
+  - Java Full Stack Developer Roles
 ```
 
-## 🤝 Connect
+# 🤝 Contact
 
--   GitHub: https://github.com/omkarmanr64
--   Email: omane4283@gmail.com
+- GitHub: https://github.com/omkarmane64
+- Email: omane4283@gmail.com
+- Location: Vile Parle, Mumbai, India
 
-> "Consistency and continuous learning build exceptional software
-> engineers."
+---
+⭐ *"Code. Learn. Build. Repeat."*
