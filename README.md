@@ -183,11 +183,8 @@ A beginner-friendly project demonstrating Hibernate ORM with CRUD operations and
 
 # 🐍 Contribution Snake
 
-> After setting up the GitHub Action, replace this section with:
-
-```markdown
 <p align="center">
-<img src="https://raw.githubusercontent.com/omkarmane64/omkarmane64/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/omkarmane64/omkarmane64/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 ```
 
